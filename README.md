@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JayashangavM/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/JayashangavM/leetcode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/JayashangavM/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/JayashangavM/leetcode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JayashangavM/leetcode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/JayashangavM/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/JayashangavM/leetcode/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/JayashangavM/leetcode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/JayashangavM/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
